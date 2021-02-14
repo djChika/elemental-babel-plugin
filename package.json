@@ -1,0 +1,10 @@
+{
+  "name": "elemental-babel-plugin",
+  "version": "0.0.1",
+  "description": "babel plugin for elemental js library",
+  "main": "index.js",
+  "repository": "https://github.com/djChika/elemental-babel-plugin.git",
+  "author": "Chika",
+  "license": "MIT",
+  "private": false
+}
